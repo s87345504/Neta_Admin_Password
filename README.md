@@ -1,0 +1,2 @@
+# Neta_Admin_Password
+哪吒V等连接adb需要的管理员密码
